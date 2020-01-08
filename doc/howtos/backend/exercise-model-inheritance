@@ -25,7 +25,7 @@ Index: addons/openacademy/__manifest__.py
 Index: addons/openacademy/partner.py
 ===================================================================
 --- /dev/null	1970-01-01 00:00:00.000000000 +0000
-+++ addons/openacademy/partner.py	2014-08-26 17:26:01.223783354 +0200
++++ addons/openacademy/models/partner.py	2014-08-26 17:26:01.223783354 +0200
 @@ -0,0 +1,12 @@
 +# -*- coding: utf-8 -*-
 +from odoo import fields, models
